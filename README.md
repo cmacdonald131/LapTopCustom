@@ -1,2 +1,2 @@
-# laptop-customization-v2
+# LapTopCustom
 Thinking in React
